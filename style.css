@@ -1,0 +1,27 @@
+body
+{
+    background-image: url('bg/gWar3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#score{
+    display: inline-block;
+}
+div{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: monospace;
+    text-align: center;
+    color: bisque;
+    border-radius: 10px;
+}
+canvas{
+    display: block;
+    margin:0 auto;
+}
+
+/* .tetromino {
+    border-radius: 7px;
+} */
+
+
